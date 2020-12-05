@@ -1,0 +1,14 @@
+# Ignore pycache files
+*.pyc
+
+# Ignore vscode settings directories
+*/.vscode/
+
+# Ignore Pycharm settings directories
+*/.idea/
+
+# Ignore pycache directories
+*/__pycache__/
+
+# Ignore any virtual environments
+*/venv/
